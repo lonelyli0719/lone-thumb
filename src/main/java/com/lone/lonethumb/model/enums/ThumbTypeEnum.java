@@ -5,7 +5,7 @@ import lombok.Getter;
 /**  
  * 点赞类型  
  *  
- * @author pine  
+ * @author lone  
  */  
 @Getter  
 public enum ThumbTypeEnum {  
